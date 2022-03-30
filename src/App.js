@@ -1,11 +1,10 @@
 import React from "react";
-
-import Todo from "./components/Todo";
+import Main from "./components/Main";
 
 export default function App() {
   return (
     <>
-      <Todo />
+      <Main />
     </>
   );
 }

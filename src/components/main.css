@@ -1,0 +1,8 @@
+.div1{
+    background-color: #ffffff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #63e935;
+}
